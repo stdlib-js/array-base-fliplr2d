@@ -130,6 +130,14 @@ console.log( y );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-base/fliplr3d`][@stdlib/array/base/fliplr3d]</span><span class="delimiter">: </span><span class="description">reverse the order of elements along the last dimension of a three-dimensional nested input array.</span>
+-   <span class="package-name">[`@stdlib/array-base/fliplr4d`][@stdlib/array/base/fliplr4d]</span><span class="delimiter">: </span><span class="description">reverse the order of elements along the last dimension of a four-dimensional nested input array.</span>
+-   <span class="package-name">[`@stdlib/array-base/fliplr5d`][@stdlib/array/base/fliplr5d]</span><span class="delimiter">: </span><span class="description">reverse the order of elements along the last dimension of a five-dimensional nested input array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -205,6 +213,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-base-fliplr2d/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-base-fliplr2d/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/base/fliplr3d]: https://github.com/stdlib-js/array-base-fliplr3d
+
+[@stdlib/array/base/fliplr4d]: https://github.com/stdlib-js/array-base-fliplr4d
+
+[@stdlib/array/base/fliplr5d]: https://github.com/stdlib-js/array-base-fliplr5d
+
+<!-- </related-links> -->
 
 </section>
 
