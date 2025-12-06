@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-20)
+## Unreleased (2025-12-06)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e7f3da3`](https://github.com/stdlib-js/stdlib/commit/e7f3da39694b2faadcf4204b9e772fe40d57f506) - **bench:** refactor to use string interpolation in `array/base/fliplr2d` [(#8857)](https://github.com/stdlib-js/stdlib/pull/8857) _(by Ullas)_
 -   [`4f3789b`](https://github.com/stdlib-js/stdlib/commit/4f3789b25e01908dab6c31b910573b73e5709ac5) - **docs:** fix example code _(by Philipp Burckhardt)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Philipp Burckhardt
+-   Ullas
 
 </section>
 
